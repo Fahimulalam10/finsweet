@@ -2,15 +2,25 @@
 
 
 .container{
-    margin: 0 auto;
     width: 1170px;
+    margin: 0 auto;
 }
+
+
 body{
     font-family: 'Poppins';
 }
 
  /* header area start */
+
+.navs .nav-item{
+  font-weight: 500;
+  font-size: 16px;
+}
+
 .contact-us{
+    font-weight: 500;
+    font-size: 16px;
     border-radius: 50px;
     padding: 5px 50px 5px 50px;
 }
@@ -18,14 +28,14 @@ body{
 .header-area{
     background: #1C1E53;;
     width:100%;
-    height: 760px;
+    height: 600px;
     right: 0px;
     top: 0px;
 }
 
 .header-area nav{
-    font-family: 'Poppins';
-  font-weight: 500;
+   font-family: 'Poppins';
+   font-weight: 500;
    font-size: 16px;
 
 }
@@ -33,9 +43,74 @@ body{
   /* header area end */
 
 
+  /* slide area start */
+
+  .slide-area{
+    position: absolute;
+    margin-top: -450px;
+    
+  }
+
+  .contant-area{
+    color: white;
+    font-family: 'Poppins';
+  }
 
 
+  .contant-area h3{
+    font-weight: 600;
+    font-size: 54px;
+    line-height: 75px;
 
+  }
+
+  .contant-area p{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+  }
+
+
+  .slide-buttons{
+    margin-top: 45px;
+   
+  }
+
+ .slide-buttons a{
+    color: white;
+   
+    padding-bottom: 50px;
+    text-decoration: none;
+ }
+
+
+ .slide-buttons a:nth-child(1){
+  
+
+  margin-right: 30px;
+   font-weight: 500;
+   font-size: 16px;
+ }
+
+
+ .slide-buttons a:nth-child(1):hover{
+
+    color: black;
+    font-weight: 600;
+    font-size: 18px;
+    background-color: #fcd980;
+    padding:  15px 30px 15px 30px;
+    border-radius: 50px;
+    transition: .3s;
+ }
+
+
+ .slide-buttons a:nth-child(2){
+    font-weight: 500;
+  
+ }
+
+ /* slide area end */
 
 
 
@@ -43,8 +118,10 @@ body{
 
 .footer-area{
     background:#1C1E53 ;
+    margin-top: 60px;
+    padding-top: 70px;
     width: 100%;
-    height: 300px;
+    height: 360px;
 
 }
 
@@ -60,7 +137,7 @@ body{
 .mail-area{
     color: black;
     margin-top: 80px;
-    padding: 30px 70px 20px 25px;
+    padding: 30px 70px 10px 25px;
     background: #fcd980;
 }
 
@@ -114,7 +191,7 @@ body{
     
     font-size: 16px;
     margin-top: 15px;
-    padding-bottom: 28px;
+    padding-bottom: 0px;
 }
 
   .logo-area{
@@ -153,12 +230,5 @@ body{
     font-size: 16px;
     color: #282938;;
 }
-
-
-
-
-
-
-
 
 /* footer main end */
