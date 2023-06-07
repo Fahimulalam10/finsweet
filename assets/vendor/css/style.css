@@ -51,20 +51,20 @@ body{
     
   }
 
-  .contant-area{
+  .contants-area{
     color: white;
     font-family: 'Poppins';
   }
 
 
-  .contant-area h3{
+  .contants-area h3{
     font-weight: 600;
     font-size: 54px;
     line-height: 75px;
 
   }
 
-  .contant-area p{
+  .contants-area p{
     font-weight: 400;
     font-size: 16px;
     line-height: 28px;
@@ -111,6 +111,95 @@ body{
  }
 
  /* slide area end */
+
+
+
+   /* how we work area start */
+
+ .work-area{
+  background: #F4F6FC;
+  height: 560px;
+  width: 100%;
+ }
+
+
+ .contant-area{
+  margin-top: 90px;
+ }
+
+ .contant-area h4{
+  font-weight: 600;
+  font-size: 48px;
+  padding-bottom: 5px;
+
+ }
+
+
+ .contant-area p{
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 28px;
+ }
+
+
+ .contant-area a{
+  font-weight: 400;
+  font-size: 16px;
+  text-decoration: none;
+
+ }
+
+
+ .icons-area{
+  margin-top: 85px;
+  margin-left: 70px;
+ }
+
+
+ .icons-part img{
+  height: 40px;
+  width: 40px;
+ }
+
+ .icons-part h4{
+  font-weight: 500;
+  font-size: 32px;
+   padding-top: 12px;
+ }
+
+
+
+ .icons-part p{
+   font-weight: 400;
+   font-size: 16px;
+   line-height: 28px;
+   color: #282938;
+   margin-bottom: 30px;
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
