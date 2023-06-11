@@ -385,7 +385,7 @@ body {
 .owl-carousel .owl-prev {
   width: 45px;
   height: 45px;
-  background: #ffffff;
+  background: #ffffff !important;
   border-radius: 50% !important;
   border: 1px solid #282938 !important;
   transition: 0.4s;
@@ -393,7 +393,7 @@ body {
 
 .client-area .owl-carousel .owl-next:hover,
 .client-area .owl-carousel .owl-prev:hover {
-  background-color: #2405f2;
+  background-color: #2405f2 !important;
 }
 .client-area .owl-carousel .owl-next:hover span,
 .client-area .owl-carousel .owl-prev:hover span {
