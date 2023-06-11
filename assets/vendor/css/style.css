@@ -299,7 +299,7 @@ margin: 20px 0px 40px 0px;
 .cards-two .overlay-three a{
   font-weight: 500;
   font-size: 16px;
-  color: #FCD980;
+  color: #282938;
   text-decoration: none;
 
 }
@@ -357,6 +357,103 @@ line-height: 64px;
 }
 
 
+/* client area start */
+
+
+
+
+
+.client-area{
+  background: #F9fbfd;
+  padding-top: 135px;
+  padding-bottom: 120px;
+}
+
+
+.client-text h4{
+
+  font-weight: 600;
+  font-size: 38px;
+  line-height: 56px;
+
+}
+
+
+.client-text p{
+
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 28px;
+  color: #282938;
+  opacity: 0.7;
+
+}
+
+
+
+
+
+
+.client-reviews h4{
+ font-weight: 500;
+ font-size: 32px;
+ line-height: 48px;
+ margin-bottom: 60px;
+}
+
+.client-ids h6{
+  font-weight: 500;
+  font-size: 18px;
+
+}
+
+.client-ids p{
+  font-weight: 500;
+  font-size: 12px;
+
+}
+
+
+
+
+.owl-carousel .owl-next,
+.owl-carousel .owl-prev{
+   width: 45px;
+   height: 45px;
+  background: #ffffff!important;
+  border-radius: 50% !important;
+ 
+}
+
+
+.owl-carousel .owl-next,
+.owl-carousel .owl-prev:hover{
+  background: #2405f2 !important;
+  color: white !important;
+
+
+}
+
+
+.owl-nav span {
+  font-size: 40px !important;
+  color: #282938 !important;
+  line-height: 30px;
+}
+
+.owl-nav span:hover{
+ 
+  color: white !important;
+}
+
+.owl-carousel .owl-nav{
+  position: absolute;
+  right: 0;
+  bottom:50px;
+  
+}
+
+/* client area end */
 
 
 /* feature area end */
