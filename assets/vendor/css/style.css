@@ -342,6 +342,8 @@ body {
   color: #696974;
 }
 
+/* feature area end */
+
 /* client area start */
 
 .client-area {
@@ -413,7 +415,79 @@ body {
 
 /* client area end */
 
-/* feature area end */
+
+/* question area start */
+
+.question-area{
+padding-top: 140px;
+padding-bottom: 140px;
+}
+
+
+.about-ques{
+  margin-top: 20px;
+  text-align: left;
+}
+.about-ques h4{
+  font-weight: 600;
+  font-size: 38px;
+  line-height: 56px;
+}
+
+.about-ques a{
+  font-weight: 500;
+  font-size: 18px;
+  color: #2405F2;
+  opacity: 0.87;
+  text-decoration: none;
+}
+
+.ques-no p{
+  font-weight: 500;
+  font-size: 24px;
+  color: #2405F2;
+ 
+}
+
+.ques-text h4{
+  font-weight: 500;
+  font-size: 24px;
+
+}
+
+.ques-text h5{
+  font-weight: 500;
+  font-size: 24px;
+}
+
+
+.ques-text p{
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 32px;
+  opacity: 0.87;
+  
+}
+
+.ques-border{
+  border-bottom: 1px solid;
+}
+
+.ques-icon{
+  text-align: right;
+}
+
+
+.ques-border{
+  margin-top: 25px;
+}
+
+.ques-borders{
+  margin-top: 25px;
+}
+
+
+/* question area end */
 
 /*   second footer area start */
 
